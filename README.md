@@ -1,4 +1,4 @@
-# @semantic-release/gitlab-config
+# @Unity-Billal-mesloub/gitlab-config
 
 [**semantic-release**](https://github.com/Unity-Billal-mesloub/semantic-release) shareable config to publish npm packages with [GitLab](https://gitlab.com).
 
